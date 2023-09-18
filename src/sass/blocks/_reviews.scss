@@ -1,0 +1,39 @@
+.reviews {
+  padding-bottom: 80px;
+  &__wrapper {
+    font-family: MuseoModerno;
+  }
+  &__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 680px;
+  }
+  &__icon {
+    margin-right: 26px;
+    margin: 18px;
+  }
+  &__descr {
+    flex-direction: column;
+    max-width: 200px;
+  }
+  &__subtitle {
+    margin-top: 36px;
+    color: #0d0d0d;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  &__marathon {
+    color: #646464;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  &__text {
+    color: #0d0d0d;
+    font-family: MuseoModerno;
+    font-size: 18px;
+    font-weight: 300;
+    width: 600px;
+  }
+}
