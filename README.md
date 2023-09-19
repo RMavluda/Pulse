@@ -1,1 +1,0 @@
-# rahimqulimavluda.github.io
